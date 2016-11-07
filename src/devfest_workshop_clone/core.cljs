@@ -1,7 +1,8 @@
 (ns ^:figwheel-always devfest-workshop-clone.core
   (:require [rum.core :as rum]
             [cljsjs.react]
-            [devfest-workshop-clone.session.detail-card :as sdc]))
+            [devfest-workshop-clone.session.detail :as sd]
+            [devfest-workshop-clone.session.list :as sl]))
 
 (enable-console-print!)
 
@@ -77,9 +78,11 @@
 (rum/defc app [data]
   [:div.columns
    [:div.column.is-two-thirds
-    (sdc/detail-card
-      (last (:sessions @data))
-      on-favorite-click)]
+
+    (sl/list (:sessions @data))
+
+    (sd/detail (last (:sessions @data)))]
+
    [:div.column
     "app-session-notification-panel"]])
 
