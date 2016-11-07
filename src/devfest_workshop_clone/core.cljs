@@ -71,13 +71,16 @@
                                  :complexity  "Beginner",
                                  :tags        ["Management" "Innovation"]}]}))
 
-
+(defn on-favorite-click [session]
+  (println "on-favorite-click" session))
 
 (rum/defc app [data]
-  [:div {:class "columns"}
-   [:div {:class "column is-two-thirds"}
-    (sdc/detail-card (last (:sessions @data)))]
-   [:div {:class "column"}
+  [:div.columns
+   [:div.column.is-two-thirds
+    (sdc/detail-card
+      (last (:sessions @data))
+      on-favorite-click)]
+   [:div.column
     "app-session-notification-panel"]])
 
 
