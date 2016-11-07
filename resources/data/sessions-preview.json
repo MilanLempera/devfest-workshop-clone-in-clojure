@@ -1,0 +1,146 @@
+[
+  {
+    "id": 400,
+    "title": "REST API je mrtvé, ať žije GraphQL",
+    "description": "REST se stal standardem pro API. Poslední dobou se ale ukazuje, že není vhodné pro uživatelské rozhraní. Facebook nám nabídl GraphQL a skvělou knihovnu Relay, která usnadňuje a zrychluje práci s daty v aplikacích. ",
+    "speakers": [
+      {
+        "id": 6,
+        "featured": false,
+        "name": "Petr Ferschmann",
+        "company": "puzzlette",
+        "country": "Pilsen, Czech Republic",
+        "photoUrl": "/images/people/petr_fershmann.jpg",
+        "shortBio": "Co-founded and operated cloud based accounting system ABRA @FlexiBee. Loves backend and so he is involved in @fnxio. Now he's starting a new project.",
+        "bio": "Co-founded and operated cloud based accounting system ABRA @FlexiBee. Loves backend and so he is involved in @fnxio. Now he's starting a new project.",
+        "tags": [
+          "Backend",
+          "REST API",
+          "GraphQL"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/fersman"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://www.ferschmann.cz"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://linkedin.com/in/fersman"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Backend",
+      "Web",
+      "GraphQL",
+      "REST API"
+    ]
+  },
+  {
+    "id": 700,
+    "title": "Angular2.Dart",
+    "description": "How to start developing in Dart and how to build applications with Angular2.",
+    "speakers": [
+      {
+        "id": 11,
+        "featured": true,
+        "name": "Tomáš Zvěřina",
+        "company": "FNX.io",
+        "companyLogo": "/images/logos/fnxio.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/tomas_zverina.jpg",
+        "shortBio": "Full stack developer, Google Developer Expert for Cloud Platform, Dart enthusiast, father of kids and OSS libraries.",
+        "bio": "Full stack developer, Google Developer Expert for Cloud Platform, Dart enthusiast, father of kids and OSS libraries.",
+        "tags": [
+          "Dart",
+          "Angular",
+          "Backend",
+          "App Engine"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Cloud Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/tom-zv-ina"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tomucha"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/tomucha"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend",
+      "Dart",
+      "Angular2"
+    ]
+  },
+  {
+    "id": 800,
+    "title": "Techniky duševní práce",
+    "description": "Pojďme se společně zamyslet co to znamená pracovat jako znalostní pracovník, jako programátor. Jak z této činnosti vydat maximum. Jak efektivně využít náš hlavní nástroj - mozek. Přiblížíme si pojmy jako je hluboká práce, inovace, zen programmer a nastavení mysli.",
+    "speakers": [
+      {
+        "id": 8,
+        "featured": true,
+        "name": "Jaroslav Holaň",
+        "company": "TopMonks",
+        "companyLogo": "/images/logos/topmonks.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/jaroslav_holan.jpg",
+        "shortBio": "Aktuálně je součástí týmu TopMonks v Praze, kde se podílí na vývoji pro velkou českou banku.",
+        "bio": "Aktuálně je součástí týmu TopMonks v Praze, kde se podílí na vývoji pro velkou českou banku. Pracovní zkušenosti získal ve firmách Česká Spořitelna, Hewlett Packard, Vendavo, Nokia, Tieto. Jeden z organizátorů konference o budoucnosti práce Wisephora. Primárně programuje v Javě, ale rád zkouší i jiné jazyky. Pravidelný účastník Coderetreatů, celodenních cvičení pro zdokonalování programátorských technik. Zastánce čistého kódu, TDD, BDD. Spoluautor knihy Vaadin 7 Cookbook. IT Geek a Kouzelník.",
+        "tags": [
+          "Innovation",
+          "Management"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/JaroslavHolan"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/jaroslavholan"
+          },
+          {
+            "icon": "website",
+            "name": "website",
+            "link": "https://www.jaroslavholan.com"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Management",
+      "Innovation"
+    ]
+  }
+]
