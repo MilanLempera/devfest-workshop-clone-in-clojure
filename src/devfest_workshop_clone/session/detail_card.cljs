@@ -15,7 +15,7 @@
       [:div.tags
        (for
          [tag (:tags session)]
-         [:span.tag.is-primary tag]
+         [:span.tag.is-primary {:key tag} tag]
          )
        ]
       (:description session)
@@ -25,4 +25,4 @@
        [:b "Speakers:"]
        (for
          [speaker (:speakers session)]
-         (:name speaker))]]]]])
+         [:span {:key (:id speaker)} (:name speaker)])]]]]])
