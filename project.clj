@@ -9,7 +9,8 @@
                  [org.clojure/core.async "0.2.374"]
                  [org.clojure/data.json "0.2.6"]
                  [rum "0.5.0"]
-                 [bidi "2.0.14"]]
+                 [bidi "2.0.14"]
+                 [matchbox "0.0.9"]]
 
   :plugins [[lein-cljsbuild "1.1.1"]
             [lein-figwheel "0.5.0"]]
