@@ -10,7 +10,8 @@
                  [org.clojure/data.json "0.2.6"]
                  [rum "0.5.0"]
                  [bidi "2.0.14"]
-                 [matchbox "0.0.9"]]
+                 [matchbox "0.0.9"]
+                 [cljs-ajax "0.5.8"]]
 
   :plugins [[lein-cljsbuild "1.1.1"]
             [lein-figwheel "0.5.0"]]

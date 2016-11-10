@@ -6,8 +6,10 @@
             [matchbox.core :as m]))
 
 (rum/defc detail < rum/reactive [id]
-  (let [sessions (rum/react store/sessions)
-        session (get sessions (int id))
+  (let [int-id (int id)
+        session (->> (rum/react store/sessions)
+                     (filter #(= (:id %) int-id))
+                     first)
 
         fire-likes (m/get-in (:firebase-root @store/state) [:likes])]
 

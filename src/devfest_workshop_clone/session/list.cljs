@@ -13,7 +13,7 @@
        (join ", ")))
 
 (rum/defc list < rum/reactive []
-  (let [sessions (vals (rum/react store/sessions))]
+  (let [sessions (rum/react store/sessions)]
 
     [:table.table
      [:thead

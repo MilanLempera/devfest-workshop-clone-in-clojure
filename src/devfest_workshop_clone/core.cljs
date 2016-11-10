@@ -4,7 +4,8 @@
             [matchbox.core :as m]
             [devfest-workshop-clone.layout :as layout]
             [devfest-workshop-clone.router :as router]
-            [devfest-workshop-clone.store :refer [state]]))
+            [devfest-workshop-clone.store :refer [state]]
+            [ajax.core :refer [GET]]))
 
 (enable-console-print!)
 
@@ -25,3 +26,13 @@
 ;;
 (defn on-js-reload []
   (swap! state update-in [:__figwheel_counter] inc))
+
+(defn handler [response]
+  (swap! state assoc :sessions response))
+
+(defn error-handler [{:keys [status status-text]}]
+  (.error js/console (str "something bad happened: " status " " status-text)))
+
+(GET "/data/session.json" {:response-format (ajax.core/json-response-format {:keywords? true})
+                                    :handler         handler
+                                    :error-handler   error-handler})

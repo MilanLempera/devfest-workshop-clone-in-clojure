@@ -1,0 +1,1653 @@
+[
+  {
+    "id": 100,
+    "title": "Firebase + Kotlin + MVP + Rx: Practical Tips",
+    "description": "New Firebase products announced at I/O make an Android developer’s life so much easier. We have been happily developing with it since January 2016. Sample projects work great, but what if your database structure is complex and you want a solid architecture with MVP, RxJava and Kotlin? Come to learn some practical tips.",
+    "speakers": [
+      {
+        "id": 2,
+        "featured": false,
+        "name": "David Vávra",
+        "title": "CEO",
+        "company": "Step Up Labs",
+        "companyLogo": "/images/logos/stepuplabs.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/david_vavra.jpg",
+        "shortBio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture.",
+        "bio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
+        "tags": [
+          "Android",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Android Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/david-v-vra"
+          },
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Prague",
+            "link": "http://www.gug.cz/cs/gdg/skupiny/prague"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dvavra/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/vavradav/"
+          },
+          {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/davidvavra/"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Android",
+      "Firebase",
+      "MVP"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Wanna more fire? - Let's try polymerfire!",
+    "description": "Have you ever tried to build Web application using Polymer with Firebase integration, additionally adhere to PWA's canons? I have, and know how many surprises can be found during developmet :). Polymerfire is a great Polymer Web Component Firebase and looks very easy to play with. During my talk I want to dive into tips & tricks on how you can integrate your web app on Polymer with Firebase + how to add offline support (since Firebase uses web sockets for data transferring, service worker will not help in that case).",
+    "speakers": [
+      {
+        "id": 3,
+        "featured": true,
+        "name": "Sofiya Huts",
+        "title": "Full Stack Software Engineer",
+        "company": "JustAnswer.com",
+        "companyLogo": "/images/logos/justanswer.com.png",
+        "country": "Lviv, Ukraine",
+        "photoUrl": "/images/people/sofia_huts.jpg",
+        "shortBio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv.",
+        "bio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). Despite that fact that Sofia has been working as Full-stack .Net developer during last 2 years, she is really passionate about front-end stuff, especially everything related to Progressive Web Apps and developing fancy web application using Polymer.",
+        "tags": [
+          "Polymer",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Lviv",
+            "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sofiya-huts-4b314a9a"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/sophie_h29"
+          },
+          {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://facebook.com/sophie.huts.7/"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Polymer",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "Projektoví Zombíci",
+    "description": "Projektové řízení je plné přežitých dogmat a nesmyslů, které ovšem stále předáváme dál a ještě hůře, vyžadujeme u certifikací. A přitom většinu teorie můžeme s klidem zahodit a k celé problematice přistupovat jinak. Kostlivce ze skříně ven a projektové zombíky do hrobu.",
+    "speakers": [
+      {
+        "id": 4,
+        "featured": true,
+        "name": "Honza Slavík",
+        "title": "Jedi Knight",
+        "company": "OVAX",
+        "companyLogo": "/images/logos/ovax.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/honza_slavik.jpg",
+        "shortBio": "Honza is professional Jedi Knight. His work is care about balance of power at galaxy and czech companies. Do not try to understand me. You could go crazy over it. ;)",
+        "bio": "Honza is professional Jedi Knight. His work is care about balance of power at galaxy and czech companies. Do not try to understand me. You could go crazy over it. ;)",
+        "tags": [
+          "Entrepreneurship",
+          "Google Apps",
+          "Lean Startup",
+          "Agile"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/honzaslavik"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/honza_slavik"
+          },
+          {
+            "icon": "website",
+            "name": "Web",
+            "link": "http://www.honzaslavik.com/"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Management",
+      "Entrepreneurship",
+      "Project management"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "REST API je mrtvé, ať žije GraphQL",
+    "description": "REST se stal standardem pro API. Poslední dobou se ale ukazuje, že není vhodné pro uživatelské rozhraní. Facebook nám nabídl GraphQL a skvělou knihovnu Relay, která usnadňuje a zrychluje práci s daty v aplikacích. ",
+    "speakers": [
+      {
+        "id": 6,
+        "featured": false,
+        "name": "Petr Ferschmann",
+        "company": "puzzlette",
+        "country": "Pilsen, Czech Republic",
+        "photoUrl": "/images/people/petr_fershmann.jpg",
+        "shortBio": "Co-founded and operated cloud based accounting system ABRA @FlexiBee. Loves backend and so he is involved in @fnxio. Now he's starting a new project.",
+        "bio": "Co-founded and operated cloud based accounting system ABRA @FlexiBee. Loves backend and so he is involved in @fnxio. Now he's starting a new project.",
+        "tags": [
+          "Backend",
+          "REST API",
+          "GraphQL"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/fersman"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://www.ferschmann.cz"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://linkedin.com/in/fersman"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Backend",
+      "Web",
+      "GraphQL",
+      "REST API"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "Improve Your Android App's UX With Accessibility",
+    "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. Good accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore.",
+    "speakers": [
+      {
+        "id": 5,
+        "featured": true,
+        "name": "Resul Caner Yıldırım",
+        "company": "InnovationBox",
+        "companyLogo": "/images/logos/innovation_box.png",
+        "country": "Istanbul, Turkey",
+        "photoUrl": "/images/people/resul_caner_yildirim.jpg",
+        "shortBio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications.",
+        "bio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
+        "tags": [
+          "Android",
+          "UI/UX",
+          "Android Wear"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "UI/UX Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html"
+          },
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Istanbul",
+            "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/protechman"
+          },
+          {
+            "icon": "gplus",
+            "name": "Google+",
+            "link": "https://plus.google.com/+rcaneryildirim"
+          },
+          {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://facebook.com/r.caner.yildirim"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "https://dribbble.com/protechman"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://linkedin.com/in/protechman"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Android",
+      "UI/UX"
+    ]
+  },
+  {
+    "id": 600,
+    "title": "Make your Polymer web-app Progressive",
+    "description": "Polymer helps you organize your app and make it more meaningful. In this talk, I will show you how to make your app load faster with app shell, lazy loading etc. and another Tip and Tricks in PWA.",
+    "speakers": [
+      {
+        "id": 9,
+        "featured": true,
+        "name": "Oleh Zasadnyy",
+        "company": "N-iX / GDG Lviv",
+        "companyLogo": "/images/logos/n-ix.svg",
+        "country": "Lviv, Ukraine",
+        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "shortBio": "Oleh is a front-end developer who is passionate by new technologies and design.",
+        "bio": "Oleh is a front-end developer who is passionate by new technologies and design. He also is a GDG Lviv organizer last 5 years, which is famous for their high-level organized conferences. Besides that, he participates in GDG design competitions and always in the top three. Oleh has created several front-end Open Source projects. The most popular are event website templates, one of them you are looking at.",
+        "tags": [
+          "Polymer",
+          "Progressive web",
+          "Javascript"
+        ],
+        "badges": [
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Lviv",
+            "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/ozasadnyy"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ozasadnyy"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://o.zasadnyy.com/"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Polymer",
+      "Web"
+    ]
+  },
+  {
+    "id": 700,
+    "title": "Angular2.Dart",
+    "description": "How to start developing in Dart and how to build applications with Angular2.",
+    "speakers": [
+      {
+        "id": 11,
+        "featured": true,
+        "name": "Tomáš Zvěřina",
+        "company": "FNX.io",
+        "companyLogo": "/images/logos/fnxio.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/tomas_zverina.jpg",
+        "shortBio": "Full stack developer, Google Developer Expert for Cloud Platform, Dart enthusiast, father of kids and OSS libraries.",
+        "bio": "Full stack developer, Google Developer Expert for Cloud Platform, Dart enthusiast, father of kids and OSS libraries.",
+        "tags": [
+          "Dart",
+          "Angular",
+          "Backend",
+          "App Engine"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Cloud Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/tom-zv-ina"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tomucha"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/tomucha"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend",
+      "Dart",
+      "Angular2"
+    ]
+  },
+  {
+    "id": 800,
+    "title": "Techniky duševní práce",
+    "description": "Pojďme se společně zamyslet co to znamená pracovat jako znalostní pracovník, jako programátor. Jak z této činnosti vydat maximum. Jak efektivně využít náš hlavní nástroj - mozek. Přiblížíme si pojmy jako je hluboká práce, inovace, zen programmer a nastavení mysli.",
+    "speakers": [
+      {
+        "id": 8,
+        "featured": true,
+        "name": "Jaroslav Holaň",
+        "company": "TopMonks",
+        "companyLogo": "/images/logos/topmonks.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/jaroslav_holan.jpg",
+        "shortBio": "Aktuálně je součástí týmu TopMonks v Praze, kde se podílí na vývoji pro velkou českou banku.",
+        "bio": "Aktuálně je součástí týmu TopMonks v Praze, kde se podílí na vývoji pro velkou českou banku. Pracovní zkušenosti získal ve firmách Česká Spořitelna, Hewlett Packard, Vendavo, Nokia, Tieto. Jeden z organizátorů konference o budoucnosti práce Wisephora. Primárně programuje v Javě, ale rád zkouší i jiné jazyky. Pravidelný účastník Coderetreatů, celodenních cvičení pro zdokonalování programátorských technik. Zastánce čistého kódu, TDD, BDD. Spoluautor knihy Vaadin 7 Cookbook. IT Geek a Kouzelník.",
+        "tags": [
+          "Innovation",
+          "Management"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/JaroslavHolan"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/jaroslavholan"
+          },
+          {
+            "icon": "website",
+            "name": "website",
+            "link": "https://www.jaroslavholan.com"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Management",
+      "Innovation"
+    ]
+  },
+  {
+    "id": 900,
+    "title": "Iterative Product Development",
+    "description": "We have an idea for a great product! Or do we? In this session we will explore cases where iterations can help define and grow the best product.",
+    "speakers": [
+      {
+        "id": 10,
+        "featured": true,
+        "name": "Silvana Wasitova",
+        "company": "Wasitova Solutions",
+        "companyLogo": "",
+        "country": "Lausanne, Switzerland",
+        "photoUrl": "/images/people/silvana_wasitova.jpg",
+        "shortBio": "Silvana Wasitova CSP and PMP, started her Scrum journey as part of the Agile transformation at Yahoo!, and used Scrum to successfully deliver FIFA Worldcup 2006 and Olympics 2008 portals.",
+        "bio": "Silvana Wasitova CSP and PMP, started her Scrum journey as part of the Agile transformation at Yahoo!, and used Scrum to successfully deliver FIFA Worldcup 2006 and Olympics 2008 portals. Silvana has coached multinational enterprises in their Agile transformation journeys in United States and across Europe. Silvana lives and breathes the agile value of “People over Process”, and brings that to the forefront in her coaching approaches, while still focused on the client’s audacious goals and desired results. Her experiences include implementing and coaching scrum transformation in Yahoo, Nestle, Roche, Skype, Microsoft, Aviva and a private Swiss bank.",
+        "tags": [
+          "Agile",
+          "Scrum"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/wasitova"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/wasitova"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Management",
+      "Entrepreneurship",
+      "Agile",
+      "Scrum"
+    ]
+  },
+  {
+    "id": 1000,
+    "title": "Building data-driven IoT mobile applications",
+    "description": "I will be talk about how to use data from various IoT devices, sensors, open datasets for building mobile apps. How to store data in real time database in Firebase and how to design interfaces that will interact with these devices.",
+    "speakers": [
+      {
+        "id": 13,
+        "featured": true,
+        "name": "Světlana Margetová",
+        "company": "Keboola",
+        "companyLogo": "/images/logos/keboola.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/svetlana_margetova.jpg",
+        "shortBio": "iOS developer with orientation on the best UI/UX during developing and preparing mobile app.",
+        "bio": "iOS developer with orientation on the best UI/UX during developing and preparing mobile app. I am data analyst now, but I can effectively connect data information with mobile use cases with focus on IoT systems, sensors and other smaller devices. Skills: Swift, Firebase, UI/UX",
+        "tags": [
+          "Firebase",
+          "Swift",
+          "UI/UX"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/mandragora258"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/msvetlana"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://margetova.eu/"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "IoT",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 1100,
+    "title": "Building Node.js apps on Google Cloud Platform",
+    "description": "Node.js makes building web applications that perform at scale easy - Google App Engine makes running Node.js in production fun. In this session, we're going to learn about the various ways to run Node.js applications on Google Cloud. We'll walk through deploying your first Hello World app and using the gcloud NPM module, we will connect our app to other Google Cloud services such as Vision API (to classify images), Cloud Storage (for binary storage), Pub/Sub (for messaging). We will look at versioning, traffic splitting, live debugging, HTTP tracing and all other features that make running Node.js in the cloud fun!",
+    "speakers": [
+      {
+        "id": 1,
+        "featured": true,
+        "name": "Mete Atamel",
+        "title": "Developer Advocate",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "London, United Kingdom",
+        "photoUrl": "/images/people/mete_atamel.jpg",
+        "shortBio": "I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform.",
+        "bio": "I'm a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, I like to compare the two ecosystems. Prior to Google, I worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, I currently live in Greenwich, not too far away from the prime meridian.",
+        "tags": [
+          "Cloud",
+          "Compute Engine",
+          "gRPC"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/meteatamel/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/meteatamel/"
+          },
+          {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/meteatamel/"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Backend",
+      "App Engine",
+      "Node.js",
+      "Google Cloud Platform"
+    ]
+  },
+  {
+    "id": 1201,
+    "title": "Apps Script Workshop (part 1)",
+    "description": "TBD",
+    "speakers": [
+      {
+        "id": 18,
+        "featured": true,
+        "name": "Ivan Kutil",
+        "company": "Etnetera AppSatori",
+        "companyLogo": "/images/logos/appsatori.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/ivan_kutil.jpg",
+        "shortBio": "I'm a graduate Engineer with a creative mind. I have experience and deep knowledge of Google products, services and API.",
+        "bio": "I'm a graduate Engineer with a creative mind. I have experience and deep knowledge of Google products, services and API. Now I'm highly focused on Google Apps Scripts and helping to automate business processes.",
+        "tags": [
+          "Apps Script"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Apps Script Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/ivan-kutil"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/codeas"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/ivankutil"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Backend",
+      "Apps Script"
+    ]
+  },
+  {
+    "id": 1202,
+    "title": "Apps Script Workshop (part 2)",
+    "description": "TBD",
+    "speakers": [
+      {
+        "id": 18,
+        "featured": true,
+        "name": "Ivan Kutil",
+        "company": "Etnetera AppSatori",
+        "companyLogo": "/images/logos/appsatori.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/ivan_kutil.jpg",
+        "shortBio": "I'm a graduate Engineer with a creative mind. I have experience and deep knowledge of Google products, services and API.",
+        "bio": "I'm a graduate Engineer with a creative mind. I have experience and deep knowledge of Google products, services and API. Now I'm highly focused on Google Apps Scripts and helping to automate business processes.",
+        "tags": [
+          "Apps Script"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Apps Script Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/ivan-kutil"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/codeas"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/ivankutil"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Backend",
+      "Apps Script"
+    ]
+  },
+  {
+    "id": 1300,
+    "title": "Angular2.js Workshop (part 1)",
+    "description": "TBD",
+    "speakers": [
+      {
+        "id": 15,
+        "featured": true,
+        "name": "Milan Lempera",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Žďár nad Sázavou, Czech Republic",
+        "photoUrl": "/images/people/milan_lempera.jpg",
+        "shortBio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu.",
+        "bio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu. Postupy, které mi fungují se snažím předávat dál na školeních (angular.cz), nebo na akcích GDG Jihlava",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/MilanLempera"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/milanlempera"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "featured": true,
+        "name": "Víťa Plšek",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Brno, Czech Republic",
+        "photoUrl": "/images/people/vita_plsek.jpg",
+        "shortBio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace",
+        "bio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace, těm se věnuje už od roku 2000. Považuje se za konzervativního a je přesvědčený že pro každou doménu se má používat ta správná technologie. Javascript vnímá jako příjemný jazyk, AngularJS jako stabilní inženýrský nástroj a psaní jednotkových testů považuje za činnost šetřící čas.",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/@VitaPlsek"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/vitaplsek"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend",
+      "Angular.js 2"
+    ]
+  },
+  {
+    "id": 1301,
+    "title": "Angular2.js Workshop (part 2)",
+    "description": "TBD",
+    "speakers": [
+      {
+        "id": 15,
+        "featured": true,
+        "name": "Milan Lempera",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Žďár nad Sázavou, Czech Republic",
+        "photoUrl": "/images/people/milan_lempera.jpg",
+        "shortBio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu.",
+        "bio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu. Postupy, které mi fungují se snažím předávat dál na školeních (angular.cz), nebo na akcích GDG Jihlava",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/MilanLempera"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/milanlempera"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "featured": true,
+        "name": "Víťa Plšek",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Brno, Czech Republic",
+        "photoUrl": "/images/people/vita_plsek.jpg",
+        "shortBio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace",
+        "bio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace, těm se věnuje už od roku 2000. Považuje se za konzervativního a je přesvědčený že pro každou doménu se má používat ta správná technologie. Javascript vnímá jako příjemný jazyk, AngularJS jako stabilní inženýrský nástroj a psaní jednotkových testů považuje za činnost šetřící čas.",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/@VitaPlsek"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/vitaplsek"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend",
+      "Angular.js 2"
+    ]
+  },
+  {
+    "id": 1302,
+    "title": "Angular2.js Workshop (part 3)",
+    "description": "TBD",
+    "speakers": [
+      {
+        "id": 15,
+        "featured": true,
+        "name": "Milan Lempera",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Žďár nad Sázavou, Czech Republic",
+        "photoUrl": "/images/people/milan_lempera.jpg",
+        "shortBio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu.",
+        "bio": "Programátor s pozitivním vztahem k automatizaci a čistému kódu. Postupy, které mi fungují se snažím předávat dál na školeních (angular.cz), nebo na akcích GDG Jihlava",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/MilanLempera"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/milanlempera"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "featured": true,
+        "name": "Víťa Plšek",
+        "company": "Angular.cz",
+        "companyLogo": "/images/logos/angular-cz.svg",
+        "country": "Brno, Czech Republic",
+        "photoUrl": "/images/people/vita_plsek.jpg",
+        "shortBio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace",
+        "bio": "S programováním začal v útlém věku díky časopisu ABC, vyzkoušel množství technologií a dnes jsou jeho hlavním zaměřením webové aplikace, těm se věnuje už od roku 2000. Považuje se za konzervativního a je přesvědčený že pro každou doménu se má používat ta správná technologie. Javascript vnímá jako příjemný jazyk, AngularJS jako stabilní inženýrský nástroj a psaní jednotkových testů považuje za činnost šetřící čas.",
+        "tags": [
+          "Angular"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/@VitaPlsek"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/vitaplsek"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://angular.cz"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend",
+      "Angular.js 2"
+    ]
+  },
+  {
+    "id": 1400,
+    "title": "BigClown Workshop (part 1)",
+    "description": "TBD",
+    "speakers": [],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "IoT",
+      "Open Hardware"
+    ]
+  },
+  {
+    "id": 1401,
+    "title": "BigClown Workshop (part 2)",
+    "description": "TBD",
+    "speakers": [],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "IoT",
+      "Open Hardware"
+    ]
+  },
+  {
+    "id": 1402,
+    "title": "BigClown Workshop (part 3)",
+    "description": "TBD",
+    "speakers": [],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "IoT",
+      "Open Hardware"
+    ]
+  },
+  {
+    "id": 1500,
+    "title": "Guide to the jungle of testing frameworks",
+    "description": "There are many tools, libraries and frameworks available for Android developers to test their applications. The jungle is huge and it's not easy to find the right ones. Some frameworks are good for unit testing, some are good for instrumentation testing, and some can be used for both. Some have great capabilities but annoying weaknesses. Some are good for testing UI, other allow you to make good mocks. We will look at many frameworks, the popular ones like Mockito, Robolectric, Espresso, and some other.",
+    "speakers": [
+      {
+        "id": 14,
+        "featured": true,
+        "name": "Tomáš Kypta",
+        "company": "Avast",
+        "companyLogo": "/images/logos/avast.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/tomas_kypta.jpg",
+        "shortBio": "Tomas is an Android developer and architect at Avast. He’s focusing on designing the architecture of Android applications",
+        "bio": "Tomas is an Android developer and architect at Avast. He’s focusing on designing the architecture of Android applications, libraries and SDKs as well as pushing good coding and testing practices.",
+        "tags": [
+          "Android"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/@TomasKypta"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/tomaskypta"
+          }
+        ]
+      }
+    ],
+    "language": "English",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Android"
+    ]
+  },
+  {
+    "id": 1600,
+    "title": "Správa závislostí Android projektu",
+    "description": "Přidat novou knihovnu k projektu je velmi snadné. Málokdo ale již zkoumá, co taková závislost přináší a co může bez vašeho vědomí změnit. Na problematiku se podíváme zejména z pohledu systému Gradle a Android manifestu. Téma obsahuje i část, jak přidávat vlastní závislosti, a je určeno spíše středně pokročilým vývojářům.",
+    "speakers": [
+      {
+        "id": 19,
+        "featured": false,
+        "name": "Michal Havryluk",
+        "company": "TANGO software",
+        "companyLogo": "/images/logos/tango_software.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/michal_havryluk.jpg",
+        "shortBio": "Head of Development at TANGO software, Android developer, lecturer at FIT CTU, former editor at Mobil.iDNES.cz and videogames journalist.",
+        "bio": "Head of Development at TANGO software, Android developer, lecturer at FIT CTU, former editor at Mobil.iDNES.cz and videogames journalist.",
+        "tags": [
+          "Android"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/Warlock_CZ"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/michal-havryluk-2691a76"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Android",
+      "Dependency Management"
+    ]
+  },
+  {
+    "id": 1700,
+    "title": "Using Docker for Machine learning",
+    "description": "Have you always wanted to use machine learning in you projects, but the initial setup it just too complicated?I will tell you how to simplify installation of machine learning frameworks with Docker without pain. Then we will go trough the the process of picking the best framework and model. And finally you will see how to test your model and use it in your project.",
+    "speakers": [
+      {
+        "id": 17,
+        "featured": true,
+        "name": "Vít Listík",
+        "company": "Seznam.cz",
+        "companyLogo": "/images/logos/seznam.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/vit_listik.jpg",
+        "shortBio": "Vít is anti-spam software developer at Email.cz. Working with big data and using machine learning in Python.",
+        "bio": "Vít is anti-spam software developer at Email.cz. Working with big data and using machine learning in Python.",
+        "tags": [
+          "Machine Learning"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tivwvit"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/tivvit"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://tivvit.cz"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Machine Learning",
+      "Docker"
+    ]
+  },
+  {
+    "id": 1800,
+    "title": "Big App - New Technologies",
+    "description": "Using latest trends in Android, we dive into MVVM, android databinding, RxJava, testable code and more",
+    "speakers": [
+      {
+        "id": 7,
+        "featured": false,
+        "name": "Juraj Oceliak",
+        "company": "eMan.cz",
+        "companyLogo": "/images/logos/eman.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/juraj_oceliak.jpg",
+        "shortBio": "Android Teamleader at eMan.cz where I work on variety of projects for large customers.",
+        "bio": "Android Teamleader at eMan.cz where I work on variety of projects for large customers.",
+        "tags": [
+          "Android",
+          "MVVM",
+          "RxJava"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/juraj-oceliak-61a96486"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Frontend",
+      "Android"
+    ]
+  },
+  {
+    "id": 1900,
+    "title": "OLAP Framework - Svoboda pro vývojáře!",
+    "description": "Získejte svobodu pracovat odkudkoliv po celém světě a svobodu a pracovat kdykoliv během dne.",
+    "speakers": [
+      {
+        "id": 20,
+        "featured": true,
+        "name": "Anna Šenk",
+        "company": "olap.cz",
+        "companyLogo": "",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/anna_senk.jpg",
+        "shortBio": "Anička began in the Startup DameJidlo.cz. In the span of four years, she put together a team of 150 people and became the COO of DameJidlo.cz",
+        "bio": "Anička began in the Startup DameJidlo.cz. In the span of four years, she put together a team of 150 people and became the COO of DameJidlo.cz She then successfully showed off her knowledge and abilities again in the Startup Rohlik.cz. In a year of being in the position of logistics manager of Rohlik.cz, she's launched the largest network of couriers here. Now she is putting together a network of independent developers and is trying to fix what Czech education failed at. She enjoys opening people's  eyes and giving them a chance to change their lifestyle.",
+        "tags": [
+          "Entrepreneurship",
+          "Management"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/anna-řepková-751a30b2"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Management",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "id": 2000,
+    "title": "Seznam se s Kafkou",
+    "description": "Terabytům se směje, s petabyty se kamarádí. Tam, kde tradiční messaging selhává, přichází Kafka. Pojďme si společně představit nejvýkonnější a nejpoužívanější messaging platformu pro zpracovaní velkých dat. Co nabízí, jak funguje a jak ji využívá vyhledávání Seznamu?",
+    "speakers": [
+      {
+        "id": 21,
+        "featured": false,
+        "name": "David Moravek",
+        "company": "Seznam.cz, a.s.",
+        "companyLogo": "/images/logos/seznam.png",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/david_moravek.jpg",
+        "shortBio": "As a DevOps engineer, David is performance tuning Seznam's hadoop infrastructure and makes sure all parts of fulltext web crawler run smoothly.",
+        "bio": "As a DevOps engineer, David is performance tuning Seznam's hadoop infrastructure and makes sure all parts of fulltext web crawler run smoothly.",
+        "tags": [
+          "Backend",
+          "Data",
+          "Hadoop",
+          "Kafka"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/davidmoravek"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/david-moravek-0b207946"
+          },
+          {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/dmvk?tab=repositories"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Backend",
+      "BigData",
+      "Kafka"
+    ]
+  },
+  {
+    "id": 2100,
+    "title": "BigQuery, introduction",
+    "description": "What it is, what for it is (where it fits), what is under the hood. Web interface, API. Description of use case in Kiwi.com with benchmark. Maybe comparison with Cassandra and Postgres.",
+    "speakers": [
+      {
+        "id": 22,
+        "featured": false,
+        "name": "Ondřej Veselý",
+        "company": "Kiwi.com & FlowerChecker.com",
+        "companyLogo": "/images/logos/kiwi.png",
+        "country": "Brno, Czech Republic",
+        "photoUrl": "/images/people/ondrej_vesely.jpg",
+        "shortBio": "Mixture of startup optimist, corporate agile worker, non-profit enthusiastics dreamer, teacher and strict science analyst.",
+        "bio": "Mixture of startup optimist, corporate agile worker, non-profit enthusiastics dreamer, teacher and strict science analyst.",
+        "tags": [
+          "BigQuery",
+          "BigData"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/xorwen"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://cz.linkedin.com/in/veselyondrej"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Advanced",
+    "tags": [
+      "Backend",
+      "BigQuery"
+    ]
+  },
+  {
+    "id": 2200,
+    "title": "Plánování dodávky informačního systému v multi-projektovém prostředí",
+    "description": "Jak naplánovat práci týmu v prostředí, kdy běží několik projektů souběžně najednou a každý člen týmu participuje na více projektech? Jaké termíny zákazníkovi slíbit? Jak ověřit, že projekt jde správným směrem a neovlivní ostatní projekty?",
+    "speakers": [
+      {
+        "id": 23,
+        "featured": false,
+        "name": "Jan Brnka",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Plzeň, Czech Republic",
+        "photoUrl": "/images/people/jan_brnka.jpg",
+        "shortBio": "V AIMTECu pracuji od roku 2006 jako součást padesátihlavého týmu, který zajišťuje dodávku našeho vlastního produktu DCIx.",
+        "bio": "V AIMTECu pracuji od roku 2006 jako součást padesátihlavého týmu, který zajišťuje dodávku našeho vlastního produktu DCIx. Začal jsem jako programátor, ale posledních 6 let buduji vývojovou část tohoto týmu.Společně jsme dosáhli spousty úspěšných implementací a produkt jsme dotáhli na světovou úroveň. Jsem rád za přátelské vztahy, prostředí, férovou komunikaci, a vůbec za celou atmosféru, která u nás panuje. Taky mě těší, když vidím, jak se ze studentů u nás stávají profesionální programátoři, které nám závidí zákazníci i konkurence.",
+        "tags": [
+          "Management"
+        ],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Intermediate",
+    "tags": [
+      "Management",
+      "Project Planning"
+    ]
+  },
+  {
+    "id": 2300,
+    "title": "Open-source a zároveň bezpečná domácí automatizace",
+    "description": "Architektura systému, bezpečnostní opatření, komponenty a jejich funkce, řízení projektu",
+    "speakers": [
+      {
+        "id": 24,
+        "featured": true,
+        "name": "Alan Fabik",
+        "company": "BigClown Labs s.r.o.",
+        "companyLogo": "/images/logos/bigclown.png",
+        "country": "Jablonec nad Nisou, Czech Republic",
+        "photoUrl": "/images/people/alan_fabik.png",
+        "shortBio": "Alan Fabik je spoluzakladatel BigClown Labs, spin-offu Jablotronu vyvíjejícím open-source systém domácí automatizace.",
+        "bio": "Alan Fabik je spoluzakladatel BigClown Labs, spin-offu Jablotronu vyvíjejícím open-source systém domácí automatizace. Vystudoval metalurgii na VŠB Ostrava, ale přesunul se k elektronice a na sever Čech. Má rád svou rodinu a běhání.",
+        "tags": [
+          "IoT",
+          "Open Hardware"
+        ],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "twitter.com/bigclownlabs"
+          },
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/alanfabik"
+          },
+          {
+            "icon": "website",
+            "name": "website",
+            "link": "http://www.bigclown.com"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Intermediate",
+    "tags": [
+      "IoT",
+      "Open Hardware"
+    ]
+  },
+  {
+    "id": 2400,
+    "title": "Firebase CodeLab (part 1)",
+    "description": "Google Developers Codelabs provide a guided, tutorial, hands-on coding experience with Firebase.",
+    "speakers": [
+      {
+        "id": 2,
+        "featured": false,
+        "name": "David Vávra",
+        "title": "CEO",
+        "company": "Step Up Labs",
+        "companyLogo": "/images/logos/stepuplabs.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/david_vavra.jpg",
+        "shortBio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture.",
+        "bio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
+        "tags": [
+          "Android",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Android Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/david-v-vra"
+          },
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Prague",
+            "link": "http://www.gug.cz/cs/gdg/skupiny/prague"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dvavra/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/vavradav/"
+          },
+          {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/davidvavra/"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "featured": true,
+        "name": "Sofiya Huts",
+        "title": "Full Stack Software Engineer",
+        "company": "JustAnswer.com",
+        "companyLogo": "/images/logos/justanswer.com.png",
+        "country": "Lviv, Ukraine",
+        "photoUrl": "/images/people/sofia_huts.jpg",
+        "shortBio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv.",
+        "bio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). Despite that fact that Sofia has been working as Full-stack .Net developer during last 2 years, she is really passionate about front-end stuff, especially everything related to Progressive Web Apps and developing fancy web application using Polymer.",
+        "tags": [
+          "Polymer",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Lviv",
+            "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sofiya-huts-4b314a9a"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/sophie_h29"
+          },
+          {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://facebook.com/sophie.huts.7/"
+          }
+        ]
+      }
+    ],
+    "language": "English Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "CodeLab",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 2401,
+    "title": "Firebase CodeLab (part 2)",
+    "description": "Google Developers Codelabs provide a guided, tutorial, hands-on coding experience with Firebase.",
+    "speakers": [
+      {
+        "id": 2,
+        "featured": false,
+        "name": "David Vávra",
+        "title": "CEO",
+        "company": "Step Up Labs",
+        "companyLogo": "/images/logos/stepuplabs.svg",
+        "country": "Prague, Czech Republic",
+        "photoUrl": "/images/people/david_vavra.jpg",
+        "shortBio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture.",
+        "bio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
+        "tags": [
+          "Android",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDE",
+            "description": "Android Google Developer Expert",
+            "link": "https://developers.google.com/experts/people/david-v-vra"
+          },
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Prague",
+            "link": "http://www.gug.cz/cs/gdg/skupiny/prague"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dvavra/"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/vavradav/"
+          },
+          {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/davidvavra/"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "featured": true,
+        "name": "Sofiya Huts",
+        "title": "Full Stack Software Engineer",
+        "company": "JustAnswer.com",
+        "companyLogo": "/images/logos/justanswer.com.png",
+        "country": "Lviv, Ukraine",
+        "photoUrl": "/images/people/sofia_huts.jpg",
+        "shortBio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv.",
+        "bio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). Despite that fact that Sofia has been working as Full-stack .Net developer during last 2 years, she is really passionate about front-end stuff, especially everything related to Progressive Web Apps and developing fancy web application using Polymer.",
+        "tags": [
+          "Polymer",
+          "Firebase"
+        ],
+        "badges": [
+          {
+            "name": "GDG",
+            "description": "Google Developers Group Lviv",
+            "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
+          }
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sofiya-huts-4b314a9a"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/sophie_h29"
+          },
+          {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://facebook.com/sophie.huts.7/"
+          }
+        ]
+      }
+    ],
+    "language": "English Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "CodeLab",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 2500,
+    "title": "UX zkušenost - nová navigace, design a testy pro DCIx",
+    "description": "Zkušenosti z projektu, kdy jsme předělávali vzhled a ovládání aplikace a potýkali se řadou problémů, co se týče technologií a testování.",
+    "speakers": [
+      {
+        "id": 28,
+        "featured": false,
+        "name": "Tomáš Časta",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Czech Republic",
+        "photoUrl": "/images/people/.png",
+        "shortBio": "28 let, Plzeň, software developer, zájmy - cestovaní, hokej, fotbal",
+        "bio": "28 let, Plzeň, software developer, zájmy - cestovaní, hokej, fotbal",
+        "tags": [
+          "Frontend",
+          "Mobile"
+        ],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Frontend"
+    ]
+  },
+  {
+    "id": 2600,
+    "title": "Praktické zkušenosti z 8 let automatického testování WMS systému",
+    "description": "Již dlouhou dobu se zabýváme rozsáhlým automatickým testováním WMS systému a máme z této oblasti bohaté zkušenosti. Chtěli bychom se s vámi podělit o několik zajímavých problémů a výzev, s nimiž jsme se v poslední době museli potýkat a ukázat, jaké řešení aktuálně máme.",
+    "speakers": [
+      {
+        "id": 29,
+        "featured": false,
+        "name": "Roman Krňoul",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Czech Republic",
+        "photoUrl": "/images/people/roman_krnoul.jpg",
+        "shortBio": "Vystudoval na FAV geomatiku, ale už během studia pracoval v Aimtecu jako programátor automatických testů.",
+        "bio": "Vystudoval na FAV geomatiku, ale už během studia pracoval v Aimtecu jako programátor automatických testů. Dnes na pozici test managera zajišťuje a zvyšuje kvalitu WMS systému. V soukromém životě především nadšený cestovatel a fotograf.",
+        "tags": [],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": [
+      "Testing"
+    ]
+  },
+  {
+    "id": 2700,
+    "title": "Dekompozice monolitické aplikace",
+    "description": "Jedna se o case study prechodu od monoliticke aplikace k architekture sluzeb. Zhodnoceni stavu v polovine cesty.",
+    "speakers": [
+      {
+        "id": 30,
+        "featured": false,
+        "name": "Stanislav Horáček",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Czech Republic",
+        "photoUrl": "/images/people/stanislav_horacek.jpg",
+        "shortBio": "Vyvojar, architekt.",
+        "bio": "Vyvojar, architekt.",
+        "tags": [],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": []
+  },
+  {
+    "id": 2800,
+    "title": "Čtyři roky retrospektiv",
+    "description": "Co nám retrospektivy přináší, jak to vypadalo z počátku a jak to funguje nyní.",
+    "speakers": [
+      {
+        "id": 31,
+        "featured": false,
+        "name": "Jakub Kotásek",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Pilsen, Czech Republic",
+        "photoUrl": "/images/people/jakub_kotasek.jpg",
+        "shortBio": "Vystudoval Softwarové Inženýrství na Fakultě aplikovaných věd Západočeské univerzity. Před šesti lety začal v Aimtecu pracovat jako programátor automatických testů.",
+        "bio": "Vystudoval Softwarové Inženýrství na Fakultě aplikovaných věd Západočeské univerzity. Před šesti lety začal v Aimtecu pracovat jako programátor automatických testů, před třemi roky přestoupil na programátora a nyní vede tým desíti programátorů. Je velmi zapálený do automatického testování a snaží se prosazovat zásady TDD.",
+        "tags": [],
+        "badges": [],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.google.cz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi3_PDXtNfPAhVFPRoKHfInAX8QFggdMAA&url=https%3A%2F%2Fcz.linkedin.com%2Fin%2Fjakub-kot%25C3%25A1sek-08577071&usg=AFQjCNERTZKBgT6u1-unTuKARjnqNZfK-Q&sig2=zU4vxaJr93jMraUm7jG7zw"
+          }
+        ]
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": []
+  },
+  {
+    "id": 2900,
+    "title": "Centrální logovací pipeline",
+    "description": "Stručně o tom, jak nám v ClouEDI usnadňuje práci centralizované logování v čele s aplikacemi Graylog a Logstash.",
+    "speakers": [
+      {
+        "id": 32,
+        "featured": false,
+        "name": "Jan Šmucr",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Rokycany, Czech Republic",
+        "photoUrl": "/images/people/jan_smucr.jpg",
+        "shortBio": "Full stack vývojář a systémový administrátor ve společnosti Aimtec (2 roky)",
+        "bio": "Full stack vývojář a systémový administrátor ve společnosti Aimtec (2 roky)",
+        "tags": [
+          "Backend"
+        ],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": []
+  },
+  {
+    "id": 3000,
+    "title": "Elasticsearch a strukturovaná data",
+    "description": "Zkušenosti z nasazení a produkčního provozu Elasticsearch engine nad strukturovanými daty.",
+    "speakers": [
+      {
+        "id": 33,
+        "featured": false,
+        "name": "Jiří Loudil",
+        "company": "AIMTEC a.s.",
+        "companyLogo": "/images/logos/aimtec.gif",
+        "country": "Rokycany, Czech Republic",
+        "photoUrl": "/images/people/.jpg",
+        "shortBio": "System developer ve společnosti AIMTEC",
+        "bio": "System developer ve společnosti AIMTEC",
+        "tags": [
+          "Backend"
+        ],
+        "badges": [],
+        "socials": []
+      }
+    ],
+    "language": "Czech",
+    "complexity": "Beginner",
+    "tags": []
+  }
+]
