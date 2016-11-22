@@ -5,7 +5,9 @@
             [devfest-workshop-clone.layout :as layout]
             [devfest-workshop-clone.router :as router]
             [devfest-workshop-clone.store :refer [state]]
-            [ajax.core :refer [GET]]))
+            [ajax.core :refer [GET]]
+    ;[devfest-workshop-clone.async-test]
+            ))
 
 (enable-console-print!)
 
@@ -34,5 +36,5 @@
   (.error js/console (str "something bad happened: " status " " status-text)))
 
 (GET "/data/session.json" {:response-format (ajax.core/json-response-format {:keywords? true})
-                                    :handler         handler
-                                    :error-handler   error-handler})
+                           :handler         handler
+                           :error-handler   error-handler})
