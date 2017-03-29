@@ -12,23 +12,33 @@
    (:sessionTitle like)]
   )
 
-(rum/defcs notification-panel < (rum/local [] ::likes)
-  [state]
-  (let [fire-likes (-> (m/get-in (:firebase-root @store/state) [:likes])
-                       (m/take-last 5))
-        likes (::likes state)]
+(def firebase-likes-mixin
+  {:will-mount (fn [state]
+                 (let [fire-likes (-> (m/get-in (:firebase-root @store/state) [:likes])
+                                      (m/take-last 5))
+                       likes-atom (::likes state)]
 
-    (m/deref
-      fire-likes
-      (fn [values]
-        (reset! likes values)))
+                   (m/listen-children
+                     fire-likes
+                     (fn [[operation item]]
+                       (case operation
+                         :child-added (swap! likes-atom conj item)
+
+                         :child-removed (swap! likes-atom drop-last)))))
+                 state)})
+
+
+(rum/defcs notification-panel < (rum/local [] ::likes)
+                                firebase-likes-mixin
+
+  [state]
+  (let [likes-atom (::likes state)]
 
     [:div.panel
      [:p.panel-heading "Likes:"]
-     (reverse
-       (map #(rum/with-key (notification %1) %2)
-            (vals @likes) (keys @likes)))
-     ]))
+     (map (fn [[id like]]
+            (rum/with-key (notification like) id))
+          @likes-atom)]))
 
 
 

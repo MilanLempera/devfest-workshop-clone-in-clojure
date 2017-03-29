@@ -15,7 +15,7 @@
        (join ", ")))
 
 (def search
-  (rum/cursor store/state [:session-search]))
+  (rum/cursor store/state :session-search))
 
 (rum/defc list < rum/reactive []
   (let [search-channel (a/chan nil)
