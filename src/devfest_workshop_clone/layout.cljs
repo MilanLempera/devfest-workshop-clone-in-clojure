@@ -4,7 +4,7 @@
             [devfest-workshop-clone.router-content :as rc]
             [devfest-workshop-clone.session.notification-panel :as np]))
 
-(rum/defc app [] < rum/static
+(rum/defc app < rum/static []
   [:div.columns
    [:div.column.is-two-thirds
 

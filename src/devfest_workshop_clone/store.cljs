@@ -9,11 +9,12 @@
 (defonce state
          (atom initial-state))
 
-(def sessions (rum/cursor state [:sessions]))
+(def sessions (rum/cursor state :sessions))
 
 (defn search-sessions [query]
-  (let [query-lower (clojure.string/lower-case query)]
+  (let [search-query (or query "")
+        query-lower (string/lower-case search-query)]
     (->> @sessions
-         (filter #(clojure.string/includes?
-                    (clojure.string/lower-case (:title %))
+         (filter #(string/includes?
+                    (string/lower-case (:title %))
                     query-lower)))))

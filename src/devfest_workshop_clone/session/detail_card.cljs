@@ -15,9 +15,7 @@
       [:div.tags
        (for
          [tag (:tags session)]
-         [:span.tag.is-primary {:key tag} tag]
-         )
-       ]
+         [:span.tag.is-primary {:key tag} tag])]
       (:description session)
       [:br]
       [:small (str (:language session) " / " (:complexity session))]
